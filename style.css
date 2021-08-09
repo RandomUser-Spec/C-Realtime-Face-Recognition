@@ -1,0 +1,42 @@
+.heading {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Indie Flower', cursive;
+    float: none ;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2 {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+}
+
+.copyright {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Indie Flower', cursive;
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: lightcyan;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px dashed black;
+    margin-top: 100px;
+}
